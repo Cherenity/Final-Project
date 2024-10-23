@@ -9,22 +9,12 @@ Tarkoitus lisäksi ajan salliessa selvittää onko sään ja aiempien liikennem�
 
 Datalähteenä käytetään Ilmatieteenlaitoksen säähavaintodataa ja digitrafficin tieliikenne dataa.
 
-**Tekniikat / Arkkitehtuuri**
+**Tekniikat / Arkkitehtuuri** <br>Datan lataaminen ja muokkaus: Azure Synapse Analytics, Spark Notebook, historiadatan lataus csv:nä ja päivittyvä data haetaan apien kautta
 
-Datan lataaminen ja muokkaus: Azure Synapse Analytics, Spark Notebook, historiadatan lataus csv:nä ja päivittyvä data haetaan apien kautta
+**Datan mallinnus** <br>SQL DBM
 
-**Datan mallinnus**
+**Tietovaraston toteutu** <br>SQL database (basic)
 
-SQL DBM
+**Datan analysointi ja visualisointi** <br>PowerBI
 
-**Tietovaraston toteutu**
-
-SQL database (basic)
-
-**Datan analysointi ja visualisointi** 
-
-PowerBI
-
-**Reaaliaikaisen datan analytiikka**
-
-Azure Stream Analytics, Event Hubs
+**Reaaliaikaisen datan analytiikka** <br>Azure Stream Analytics, Event Hubs
